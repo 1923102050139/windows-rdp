@@ -7,6 +7,6 @@ copy token to secrets as NGROK_AUTH_TOKEN
 
 copy host address from https://dashboard.ngrok.com/status/tunnels
 
-default username : Motdulieu
+default username : runneradmin
 
 default password : Motdulieu2021
